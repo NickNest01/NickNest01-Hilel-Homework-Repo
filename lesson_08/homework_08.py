@@ -17,6 +17,5 @@ def list_items_total(lst):
             total1.append('Can\'t do this!')
 
     print(total1)
-    return
 
 list_items_total(test_array)
